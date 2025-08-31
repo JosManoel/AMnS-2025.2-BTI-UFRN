@@ -20,7 +20,7 @@ Este repositório está destinado ao armazenamento de resoluções dos exercíci
 
 <h2 id="licenca">📝 Licença</h2>
 
-- Este projeto está sob a licença [MIT](https://github.com/Arco-de-Treinamento/Shishin-no-Ken/blob/main/LICENSE).
+- Este projeto está sob a licença [MIT](https://github.com/JosManoel/AMnS-2025.2-BTI-UFRN/blob/main/LICENSE).
 
 <hr>
 
